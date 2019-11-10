@@ -2,7 +2,7 @@
 
 The flow would not be perceived clearly until we seeing ourselves under its influence.
 
-![Image description](Screenshot 2019-09-22 at 17.17.jpg)
+![Image description](wedntsee-thumbnail.jpg)
 ![Image description](wedntsee-img.jpg)
 ![Image description](wedntseeGIF.gif)
 
