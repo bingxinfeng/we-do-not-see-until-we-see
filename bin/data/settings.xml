@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<group>
+	<blurGaussian>15</blurGaussian>
+	<maskThreshold>50</maskThreshold>
+	<level1>0.25</level1>
+	<level2>0.5</level2>
+	<level3>0.75</level3>
+	<l1_ax>654.297</l1_ax>
+	<l1_ay>155.469</l1_ay>
+	<l1_bx>305.469</l1_bx>
+	<l1_by>5.46875</l1_by>
+	<l2_ax>755.469</l2_ax>
+	<l2_ay>304.297</l2_ay>
+	<l2_bx>539.062</l2_bx>
+	<l2_by>0</l2_by>
+	<l3_ax>1450</l3_ax>
+	<l3_ay>150</l3_ay>
+	<l3_bx>2000</l3_bx>
+	<l3_by>600</l3_by>
+	<l4_ax>650</l4_ax>
+	<l4_ay>1900</l4_ay>
+	<l4_bx>10000</l4_bx>
+	<l4_by>10000</l4_by>
+	<timeSp>5e-09</timeSp>
+</group>
